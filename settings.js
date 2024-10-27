@@ -45,8 +45,8 @@ global.location = "Nigeria, Cross River, Calabar" //ur location
 
 //new
 global.botname = '𝐄𝐒 𝐓𝐄𝐀𝐌𝐒-𝐕𝟏' //ur bot name
-global.ownernumber = ['2348187637779'] //ur owner number, dont add more than one
-global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ ᴛᴇᴄʜ 👑' //ur owner name
+global.ownernumber = ['2347064158438'] //ur owner number, dont add more than one
+global.ownername = 'ᵢₘₘₒᵣₜₐₗ ₐₙₜₕₒₙᵢₒ 👑' //ur owner name
 global.websitex = "https://youtube.com/@esteams"
 global.wagc = "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"
 global.themeemoji = '⛩'
